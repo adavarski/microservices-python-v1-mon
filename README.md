@@ -1,5 +1,5 @@
 # simplebank
-App for the Microservices In Action book (https://www.manning.com/books/microservices-in-action)
+App for the Microservices 
 
 #### Stop all simplebank containers running
 ```
